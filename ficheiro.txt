@@ -1,1 +1,3 @@
 primeiro ficheiro do projeto
+
+faltava codigo aqui e eu fiz mais coisas
